@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm Daniel
+
+- I'm interested in ... games development, graphics programming, web development and artificial intelligence
+- I’m currently working on ... Game Engines at university
+- I’m currently learning ... Computer Science and Games Technology in university
+- I’m looking to collaborate on ... anything
+- How to reach me: ...
+  - Linked In: 
+  - Email: thirteenjoker56@gmail.com
+  - Discord: thirteenjoker56#3897
 
 <!--
 **dandria56/dandria56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
