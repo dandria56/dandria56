@@ -5,7 +5,6 @@
 - I’m currently learning ... Computer Science and Games Technology in university
 - I’m looking to collaborate on ... anything
 - How to reach me: ...
-  - Linked In: 
   - Email: thirteenjoker56@gmail.com
   - Discord: thirteenjoker56#3897
 
