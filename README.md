@@ -7,6 +7,7 @@
 - How to reach me: ...
   - Email: thirteenjoker56@gmail.com
   - Discord: thirteenjoker56#3897
+  - LinkedIn: https://www.linkedin.com/in/daniel-rodic-1254a11a6/
 
 <!--
 **dandria56/dandria56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
